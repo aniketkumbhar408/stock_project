@@ -1,0 +1,214 @@
+Symbol	Sector
+PIIND	Agro Chemicals
+UPL	Agro Chemicals
+SONACOMS	Auto Ancillaries
+BHARATFORG	Auto Ancillaries
+UNOMINDA	Auto Ancillaries
+MOTHERSON	Auto Ancillaries
+BOSCHLTD	Auto Ancillaries
+TIINDIA	Auto Ancillaries
+EXIDEIND	Auto Ancillaries - Batteries
+M&M	Automobiles
+ASHOKLEY	Automobiles - Commercial Vehicles
+TMPV	Automobiles - Electric Vehicles
+MARUTI	Automobiles - Passenger Vehicles
+HEROMOTOCO	Automobiles - Two Wheelers
+EICHERMOT	Automobiles - Two Wheelers
+TVSMOTOR	Automobiles - Two Wheelers
+BAJAJ-AUTO	Automobiles - Two Wheelers
+INDIGO	Aviation
+HDFCBANK	Banking - Private Sector
+ICICIBANK	Banking - Private Sector
+AUBANK	Banking - Private Sector
+AXISBANK	Banking - Private Sector
+RBLBANK	Banking - Private Sector
+KOTAKBANK	Banking - Private Sector
+FEDERALBNK	Banking - Private Sector
+INDUSINDBK	Banking - Private Sector
+IDFCFIRSTB	Banking - Private Sector
+BANDHANBNK	Banking - Private Sector
+YESBANK	Banking - Private Sector
+UNIONBANK	Banking - Public Sector
+SBIN	Banking - Public Sector
+PNB	Banking - Public Sector
+BANKBARODA	Banking - Public Sector
+CANBK	Banking - Public Sector
+BANKINDIA	Banking - Public Sector
+INDIANB	Banking - Public Sector
+SYNGENE	Biotechnology - CRAMS
+ASTRAL	Building Materials
+POLYCAB	Capital Goods - Cables
+KEI	Capital Goods - Cables
+CGPOWER	Capital Goods - Electrical Equipment
+PGEL	Capital Goods - Electrical Equipment
+CUMMINSIND	Capital Goods - Engines
+BHEL	Capital Goods - Heavy Electricals
+ABB	Capital Goods - Industrial Automation
+SIEMENS	Capital Goods - Industrial Technology
+POWERINDIA	Capital Goods - Power Equipment
+AMBUJACEM	Cement
+SHREECEM	Cement
+DALBHARAT	Cement
+ULTRACEMCO	Cement
+PIDILITIND	Chemicals - Adhesives
+NBCC	Construction & Engineering
+HAVELLS	Consumer Durables
+CROMPTON	Consumer Durables
+BLUESTARCO	Consumer Durables
+VOLTAS	Consumer Durables
+TITAN	Consumer Durables - Jewellery
+SWIGGY	Consumer Services - Food Delivery
+KALYANKJIL	Consumer Services - Jewellery
+JUBLFOOD	Consumer Services - QSR
+IRCTC	Consumer Services - Railways
+DMART	Consumer Services - Retail
+BDL	Defence
+HAL	Defence - Aerospace
+MAZDOCK	Defence - Shipbuilding
+SOLARINDS	Defence & Explosives
+BEL	Defence Electronics
+ADANIENT	Diversified
+GRASIM	Diversified
+NYKAA	E-commerce
+KAYNES	Electronics Manufacturing
+AMBER	Electronics Manufacturing
+DIXON	Electronics Manufacturing
+ETERNAL	Energy Solutions
+LT	Engineering & Construction
+JIOFIN	Financial Services
+BAJAJFINSV	Financial Services
+ABCAPITAL	Financial Services
+IIFL	Financial Services
+SAMMAANCAP	Financial Services
+HDFCAMC	Financial Services - Asset Management
+MCX	Financial Services - Commodity Exchange
+SBICARD	Financial Services - Credit Cards
+CDSL	Financial Services - Depository
+LICHSGFIN	Financial Services - Housing Finance
+PNBHOUSING	Financial Services - Housing Finance
+HUDCO	Financial Services - Infrastructure Finance
+POLICYBZR	Financial Services - Insurance Broking
+NUVAMA	Financial Services - Investment Banking
+CAMS	Financial Services - Mutual Fund Services
+MANAPPURAM	Financial Services - NBFC
+MUTHOOTFIN	Financial Services - NBFC
+LTF	Financial Services - NBFC
+MFSL	Financial Services - NBFC
+CHOLAFIN	Financial Services - NBFC
+SHRIRAMFIN	Financial Services - NBFC
+BAJFINANCE	Financial Services - NBFC
+IREDA	Financial Services - Power Finance
+PFC	Financial Services - Power Finance
+RECLTD	Financial Services - Power Finance
+IRFC	Financial Services - Railway Finance
+KFINTECH	Financial Services - RTA
+ANGELONE	Financial Services - Stock Broking
+BSE	Financial Services - Stock Exchange
+360ONE	Financial Services - Wealth Management
+PAYTM	Fintech
+ITC	FMCG
+MARICO	FMCG
+TATACONSUM	FMCG
+HINDUNILVR	FMCG
+GODREJCP	FMCG
+PATANJALI	FMCG
+DABUR	FMCG
+UNITDSPR	FMCG - Alcoholic Beverages
+VBL	FMCG - Beverages
+BRITANNIA	FMCG - Food Products
+NESTLEIND	FMCG - Food Products
+COLPAL	FMCG - Oral Care
+APOLLOHOSP	Healthcare Services
+FORTIS	Healthcare Services
+MAXHEALTH	Healthcare Services
+INDHOTEL	Hospitality
+FINNIFTY	Index
+NIFTY	Index
+NIFTYNXT50	Index
+MIDCPNIFTY	Index
+BANKNIFTY	Index
+GMRAIRPORT	Infrastructure - Airports
+ADANIPORTS	Infrastructure - Ports
+RVNL	Infrastructure - Railways
+ICICIGI	Insurance - General
+ICICIPRULI	Insurance - Life
+LICI	Insurance - Life
+HDFCLIFE	Insurance - Life
+SBILIFE	Insurance - Life
+NAUKRI	Internet Services
+BAJAJHLDNG	Investment Holding
+JINDALSTEL	Iron & Steel
+TATASTEEL	Iron & Steel
+JSWSTEEL	Iron & Steel
+SAIL	Iron & Steel
+APLAPOLLO	Iron & Steel Products
+WIPRO	IT Services
+INFY	IT Services
+TCS	IT Services
+HCLTECH	IT Services
+LTIM	IT Services
+KPITTECH	IT Services
+PERSISTENT	IT Services
+TECHM	IT Services
+MPHASIS	IT Services
+COFORGE	IT Services
+TATAELXSI	IT Services - Design
+TATATECH	IT Services - Engineering
+OFSS	IT Services - Financial Software
+DELHIVERY	Logistics
+CONCOR	Logistics
+HINDZINC	Metals & Mining
+NMDC	Metals & Mining
+VEDL	Metals & Mining
+HINDALCO	Metals & Mining
+NATIONALUM	Metals & Mining - Aluminium
+COALINDIA	Mining - Coal
+OIL	Oil & Gas - Exploration
+ONGC	Oil & Gas - Exploration & Production
+PETRONET	Oil & Gas - Gas Infrastructure
+GAIL	Oil & Gas - Gas Transmission
+HINDPETRO	Oil & Gas - Refining & Marketing
+BPCL	Oil & Gas - Refining & Marketing
+IOC	Oil & Gas - Refining & Marketing
+RELIANCE	Oil & Gas / Conglomerate
+ASIANPAINT	Paints
+ZYDUSLIFE	Pharmaceuticals
+PPLPHARMA	Pharmaceuticals
+DRREDDY	Pharmaceuticals
+SUNPHARMA	Pharmaceuticals
+LAURUSLABS	Pharmaceuticals
+MANKIND	Pharmaceuticals
+AUROPHARMA	Pharmaceuticals
+ALKEM	Pharmaceuticals
+LUPIN	Pharmaceuticals
+CIPLA	Pharmaceuticals
+GLENMARK	Pharmaceuticals
+DIVISLAB	Pharmaceuticals
+TORNTPHARM	Pharmaceuticals
+BIOCON	Pharmaceuticals & Biotechnology
+SUPREMEIND	Plastics
+IEX	Power - Energy Exchange
+NHPC	Power - Hydro
+POWERGRID	Power - Transmission
+TATAPOWER	Power - Utilities
+JSWENERGY	Power - Utilities
+NTPC	Power - Utilities
+TORNTPOWER	Power - Utilities
+GODREJPROP	Real Estate
+LODHA	Real Estate
+OBEROIRLTY	Real Estate
+PRESTIGE	Real Estate
+DLF	Real Estate
+PHOENIXLTD	Real Estate
+INOXWIND	Renewable Energy
+PREMIERENE	Renewable Energy
+ADANIENSOL	Renewable Energy
+ADANIGREEN	Renewable Energy
+WAAREEENER	Renewable Energy - Solar
+SUZLON	Renewable Energy - Wind
+TRENT	Retail
+SRF	Specialty Chemicals
+IDEA	Telecom
+BHARTIARTL	Telecom
+INDUSTOWER	Telecom Infrastructure
+PAGEIND	Textiles & Apparel

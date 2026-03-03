@@ -2,11 +2,12 @@ from flask import Flask, jsonify, send_file
 from flask_cors import CORS
 import subprocess
 import os
+import sys
 
 app = Flask(__name__)
 CORS(app)
 
-BASE = os.path.dirname(__file__)
+BASE = os.path.dirname
 GAINERS = os.path.join(BASE, 'topGainers.csv')
 LOSERS = os.path.join(BASE, 'topLosers.csv')
 SCRIPTS_PY = os.path.join(BASE, 'scripts.py')
@@ -31,7 +32,8 @@ def sync():
     if not os.path.exists(SCRIPTS_PY):
         return jsonify({'ok': False, 'error': 'scripts.py not found'}), 500
     try:
-        res = subprocess.run(['python', SCRIPTS_PY], capture_output=True, text=True, check=True)
+        # Use the same Python executable that is running this server
+        res = subprocess.run([sys.executable, SCRIPTS_PY], capture_output=True, text=True, check=True)
         return jsonify({'ok': True, 'stdout': res.stdout})
     except subprocess.CalledProcessError as e:
         return jsonify({'ok': False, 'stderr': e.stderr or e.output}), 500
