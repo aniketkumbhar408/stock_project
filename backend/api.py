@@ -7,7 +7,7 @@ import sys
 app = Flask(__name__)
 CORS(app)
 
-BASE = os.path.dirname
+BASE = os.path.dirname(os.path.abspath(__file__))
 GAINERS = os.path.join(BASE, 'topGainers.csv')
 LOSERS = os.path.join(BASE, 'topLosers.csv')
 SCRIPTS_PY = os.path.join(BASE, 'scripts.py')
